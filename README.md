@@ -7,4 +7,4 @@ There are two subtasks to complete the main one:
   1. Implement search action
   2. Implement *Night mode* checkbox
 
-![Screen of app](https://raw.githubusercontent.com/Vapsel/android-toolbar/master/docs/screenshot.png)
+![Screen of app](https://raw.githubusercontent.com/Vapsel/android-toolbar/master/docs/screenshot.jpg)
