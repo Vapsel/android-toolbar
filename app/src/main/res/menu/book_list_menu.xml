@@ -1,18 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item
-        android:id="@+id/actionSearch"
-        android:title="Search"
-        android:icon="@android:drawable/ic_menu_search"
-        app:showAsAction="always"
-        app:actionViewClass="android.support.v7.widget.SearchView" />
+    <!-- TODO add search item (android.support.v7.widget.SearchView class) -->
 
-    <item
-        android:id="@+id/nightModeCheck"
-        android:checkable="true"
-        android:title="Night mode"
-        app:actionViewClass="android.widget.CheckBox"
-        app:showAsAction="never" />
+    <!-- TODO add checkbox item (android.widget.CheckBox class) -->
 
 </menu>
